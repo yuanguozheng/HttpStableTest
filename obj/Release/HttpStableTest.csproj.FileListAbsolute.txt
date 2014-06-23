@@ -1,0 +1,12 @@
+D:\C#\Desktop\HttpStableTest\HttpStableTest\bin\Release\HttpStableTest.exe
+D:\C#\Desktop\HttpStableTest\HttpStableTest\bin\Release\HttpStableTest.pdb
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\MainWindow.baml
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\MainWindow.g.cs
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\App.g.cs
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest_MarkupCompile.cache
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.g.resources
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.Properties.Resources.resources
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.csproj.GenerateResource.Cache
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.exe
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.pdb
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Release\HttpStableTest.csprojResolveAssemblyReference.cache

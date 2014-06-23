@@ -1,0 +1,11 @@
+D:\C#\Desktop\HttpStableTest\HttpStableTest\bin\Debug\HttpStableTest.exe
+D:\C#\Desktop\HttpStableTest\HttpStableTest\bin\Debug\HttpStableTest.pdb
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\MainWindow.baml
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\MainWindow.g.cs
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\App.g.cs
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest_MarkupCompile.cache
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest.g.resources
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest.Properties.Resources.resources
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest.csproj.GenerateResource.Cache
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest.exe
+D:\C#\Desktop\HttpStableTest\HttpStableTest\obj\Debug\HttpStableTest.pdb
